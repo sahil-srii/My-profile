@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **ReactJs, Tailwind CSS**
 
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="292px"/>
+
 - 💬 Ask me about **HTML , CSS , JS, Figma**
 
 - 📫 How to reach me **sahilmokkapati03@gmail.com**
