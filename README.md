@@ -1,5 +1,7 @@
 # My-profile
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230px"/>
+
 <h1 align="center">Hi 👋, I'm Sahil Mokkapati</h1>
 <h3 align="center">An Experience Designer and a Passionate FrontEnd Developer Based in INDIA.</h3>
 
@@ -15,10 +17,7 @@
 
 - ⚡ Fun fact **Fun fact I think I am crazy about learning new technology**
 
-<br/>
-<br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
