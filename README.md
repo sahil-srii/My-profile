@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/_sahilsri_" target="blank"><img src="https://img.shields.io/twitter/follow/_sahilsri_?logo=twitter&style=for-the-badge" alt="_sahilsri_" /></a> </p>
 
+ <img align="center-right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="292px"/>
+
 - 🌱 I’m currently learning **ReactJs, Tailwind CSS**
-
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="292px"/>
-
+  
 - 💬 Ask me about **HTML , CSS , JS, Figma**
 
 - 📫 How to reach me **sahilmokkapati03@gmail.com**
